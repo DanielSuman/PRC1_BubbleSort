@@ -1,1 +1,2 @@
-# PRC1_BubbleSort
+# PRC1_BubbleSort 
+# Sice to byla bolest, ale máte to tu...
